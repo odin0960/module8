@@ -1,4 +1,6 @@
 # module8
 Task of module8 - Shapes
 
-https://miro.com/app/board/uXjVMaprjXg=/
+https://miro.com/app/board/uXjVMaprjXg=/?share_link_id=72349276300
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVMaprjXg=/?moveToViewport=-1484,-229,2960,1530&embedId=268608490403" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
